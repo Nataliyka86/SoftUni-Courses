@@ -1,3 +1,6 @@
 # SoftUni-Courses
 Courses from my education @ SoftUni.
-Baic Syntax - Exercise
+Basic Syntax - Exercise
+Data Types and Variables - Exercises
+Arrays - Exercises
+Methods - Exercises
