@@ -1,4 +1,4 @@
-package aquarium;
+package aquariumDebug;
 
 import java.util.ArrayList;
 import java.util.List;

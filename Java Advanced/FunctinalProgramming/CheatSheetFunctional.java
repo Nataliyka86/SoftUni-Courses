@@ -1,4 +1,4 @@
-package Advanced.LambdaFunctinal;
+package FunctinalProgramming;
 
 import java.util.function.Function;
 

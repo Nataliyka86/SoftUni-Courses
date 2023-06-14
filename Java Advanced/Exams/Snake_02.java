@@ -78,9 +78,7 @@ public class Snake_02 {
             System.out.println("Game over!");
         }
         System.out.printf("Food eaten: %d%n", foodEaten);
-        for (
-                int i = 0;
-                i < n; i++) {
+        for (int i = 0;i < n; i++) {
             for (int j = 0; j < n; j++) {
                 System.out.print(matrix[i][j]);
             }

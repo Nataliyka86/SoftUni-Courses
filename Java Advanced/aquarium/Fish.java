@@ -1,4 +1,4 @@
-package aquarium;
+package aquariumDebug;
 
 public class Fish {
     private String name;
