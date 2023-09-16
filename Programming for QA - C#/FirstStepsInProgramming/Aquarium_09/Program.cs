@@ -14,7 +14,7 @@
             double totalVolume = volumeInLiters * (1 - rate / 100);
 
 
-            Console.WriteLine(totalVolume);
+            Console.WriteLine(Math.Round(totalVolume));
         }
     }
 }
