@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "1ToNStep3_03/1.0.0": {
+        "runtime": {
+          "1ToNStep3_03.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "1ToNStep3_03/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

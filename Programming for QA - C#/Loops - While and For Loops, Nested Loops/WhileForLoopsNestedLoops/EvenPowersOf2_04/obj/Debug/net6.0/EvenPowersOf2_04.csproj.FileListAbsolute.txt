@@ -1,0 +1,14 @@
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\Loops - While and For Loops, Nested Loops\WhileForLoopsNestedLoops\EvenPowersOf2_04\bin\Debug\net6.0\EvenPowersOf2_04.exe
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\Loops - While and For Loops, Nested Loops\WhileForLoopsNestedLoops\EvenPowersOf2_04\bin\Debug\net6.0\EvenPowersOf2_04.deps.json
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\Loops - While and For Loops, Nested Loops\WhileForLoopsNestedLoops\EvenPowersOf2_04\bin\Debug\net6.0\EvenPowersOf2_04.runtimeconfig.json
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\Loops - While and For Loops, Nested Loops\WhileForLoopsNestedLoops\EvenPowersOf2_04\bin\Debug\net6.0\EvenPowersOf2_04.dll
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\Loops - While and For Loops, Nested Loops\WhileForLoopsNestedLoops\EvenPowersOf2_04\bin\Debug\net6.0\EvenPowersOf2_04.pdb
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\Loops - While and For Loops, Nested Loops\WhileForLoopsNestedLoops\EvenPowersOf2_04\obj\Debug\net6.0\EvenPowersOf2_04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\Loops - While and For Loops, Nested Loops\WhileForLoopsNestedLoops\EvenPowersOf2_04\obj\Debug\net6.0\EvenPowersOf2_04.AssemblyInfoInputs.cache
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\Loops - While and For Loops, Nested Loops\WhileForLoopsNestedLoops\EvenPowersOf2_04\obj\Debug\net6.0\EvenPowersOf2_04.AssemblyInfo.cs
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\Loops - While and For Loops, Nested Loops\WhileForLoopsNestedLoops\EvenPowersOf2_04\obj\Debug\net6.0\EvenPowersOf2_04.csproj.CoreCompileInputs.cache
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\Loops - While and For Loops, Nested Loops\WhileForLoopsNestedLoops\EvenPowersOf2_04\obj\Debug\net6.0\EvenPowersOf2_04.dll
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\Loops - While and For Loops, Nested Loops\WhileForLoopsNestedLoops\EvenPowersOf2_04\obj\Debug\net6.0\refint\EvenPowersOf2_04.dll
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\Loops - While and For Loops, Nested Loops\WhileForLoopsNestedLoops\EvenPowersOf2_04\obj\Debug\net6.0\EvenPowersOf2_04.pdb
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\Loops - While and For Loops, Nested Loops\WhileForLoopsNestedLoops\EvenPowersOf2_04\obj\Debug\net6.0\EvenPowersOf2_04.genruntimeconfig.cache
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\Loops - While and For Loops, Nested Loops\WhileForLoopsNestedLoops\EvenPowersOf2_04\obj\Debug\net6.0\ref\EvenPowersOf2_04.dll

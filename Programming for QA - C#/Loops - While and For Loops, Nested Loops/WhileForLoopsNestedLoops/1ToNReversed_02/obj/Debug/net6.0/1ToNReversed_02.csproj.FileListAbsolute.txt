@@ -1,0 +1,14 @@
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\Loops - While and For Loops, Nested Loops\WhileForLoopsNestedLoops\1ToNReversed_02\bin\Debug\net6.0\1ToNReversed_02.exe
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\Loops - While and For Loops, Nested Loops\WhileForLoopsNestedLoops\1ToNReversed_02\bin\Debug\net6.0\1ToNReversed_02.deps.json
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\Loops - While and For Loops, Nested Loops\WhileForLoopsNestedLoops\1ToNReversed_02\bin\Debug\net6.0\1ToNReversed_02.runtimeconfig.json
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\Loops - While and For Loops, Nested Loops\WhileForLoopsNestedLoops\1ToNReversed_02\bin\Debug\net6.0\1ToNReversed_02.dll
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\Loops - While and For Loops, Nested Loops\WhileForLoopsNestedLoops\1ToNReversed_02\bin\Debug\net6.0\1ToNReversed_02.pdb
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\Loops - While and For Loops, Nested Loops\WhileForLoopsNestedLoops\1ToNReversed_02\obj\Debug\net6.0\1ToNReversed_02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\Loops - While and For Loops, Nested Loops\WhileForLoopsNestedLoops\1ToNReversed_02\obj\Debug\net6.0\1ToNReversed_02.AssemblyInfoInputs.cache
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\Loops - While and For Loops, Nested Loops\WhileForLoopsNestedLoops\1ToNReversed_02\obj\Debug\net6.0\1ToNReversed_02.AssemblyInfo.cs
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\Loops - While and For Loops, Nested Loops\WhileForLoopsNestedLoops\1ToNReversed_02\obj\Debug\net6.0\1ToNReversed_02.csproj.CoreCompileInputs.cache
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\Loops - While and For Loops, Nested Loops\WhileForLoopsNestedLoops\1ToNReversed_02\obj\Debug\net6.0\1ToNReversed_02.dll
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\Loops - While and For Loops, Nested Loops\WhileForLoopsNestedLoops\1ToNReversed_02\obj\Debug\net6.0\refint\1ToNReversed_02.dll
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\Loops - While and For Loops, Nested Loops\WhileForLoopsNestedLoops\1ToNReversed_02\obj\Debug\net6.0\1ToNReversed_02.pdb
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\Loops - While and For Loops, Nested Loops\WhileForLoopsNestedLoops\1ToNReversed_02\obj\Debug\net6.0\1ToNReversed_02.genruntimeconfig.cache
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\Loops - While and For Loops, Nested Loops\WhileForLoopsNestedLoops\1ToNReversed_02\obj\Debug\net6.0\ref\1ToNReversed_02.dll

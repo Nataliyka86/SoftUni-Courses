@@ -1,0 +1,14 @@
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\Loops - While and For Loops, Nested Loops\WhileForLoopsNestedLoops\TrainTheTrainers_04\bin\Debug\net6.0\TrainTheTrainers_04.exe
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\Loops - While and For Loops, Nested Loops\WhileForLoopsNestedLoops\TrainTheTrainers_04\bin\Debug\net6.0\TrainTheTrainers_04.deps.json
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\Loops - While and For Loops, Nested Loops\WhileForLoopsNestedLoops\TrainTheTrainers_04\bin\Debug\net6.0\TrainTheTrainers_04.runtimeconfig.json
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\Loops - While and For Loops, Nested Loops\WhileForLoopsNestedLoops\TrainTheTrainers_04\bin\Debug\net6.0\TrainTheTrainers_04.dll
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\Loops - While and For Loops, Nested Loops\WhileForLoopsNestedLoops\TrainTheTrainers_04\bin\Debug\net6.0\TrainTheTrainers_04.pdb
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\Loops - While and For Loops, Nested Loops\WhileForLoopsNestedLoops\TrainTheTrainers_04\obj\Debug\net6.0\TrainTheTrainers_04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\Loops - While and For Loops, Nested Loops\WhileForLoopsNestedLoops\TrainTheTrainers_04\obj\Debug\net6.0\TrainTheTrainers_04.AssemblyInfoInputs.cache
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\Loops - While and For Loops, Nested Loops\WhileForLoopsNestedLoops\TrainTheTrainers_04\obj\Debug\net6.0\TrainTheTrainers_04.AssemblyInfo.cs
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\Loops - While and For Loops, Nested Loops\WhileForLoopsNestedLoops\TrainTheTrainers_04\obj\Debug\net6.0\TrainTheTrainers_04.csproj.CoreCompileInputs.cache
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\Loops - While and For Loops, Nested Loops\WhileForLoopsNestedLoops\TrainTheTrainers_04\obj\Debug\net6.0\TrainTheTrainers_04.dll
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\Loops - While and For Loops, Nested Loops\WhileForLoopsNestedLoops\TrainTheTrainers_04\obj\Debug\net6.0\refint\TrainTheTrainers_04.dll
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\Loops - While and For Loops, Nested Loops\WhileForLoopsNestedLoops\TrainTheTrainers_04\obj\Debug\net6.0\TrainTheTrainers_04.pdb
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\Loops - While and For Loops, Nested Loops\WhileForLoopsNestedLoops\TrainTheTrainers_04\obj\Debug\net6.0\TrainTheTrainers_04.genruntimeconfig.cache
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\Loops - While and For Loops, Nested Loops\WhileForLoopsNestedLoops\TrainTheTrainers_04\obj\Debug\net6.0\ref\TrainTheTrainers_04.dll
