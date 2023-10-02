@@ -41,14 +41,10 @@
             else if (a == 9)
             {
                 Console.WriteLine("nine");
-            }
-            else if (a == 10)
-            {
-                Console.WriteLine("ten");
-            }
+            }            
             else
             {
-                Console.WriteLine("number out of range");
+                Console.WriteLine("Out of range");
             }
         }
     }
