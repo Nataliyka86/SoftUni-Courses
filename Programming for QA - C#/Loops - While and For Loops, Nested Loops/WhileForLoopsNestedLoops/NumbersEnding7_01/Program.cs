@@ -4,7 +4,9 @@
     {
         static void Main(string[] args)
         {
-            for (int i = 1; i <= 1000; i++)
+            int n = int.Parse(Console.ReadLine());  
+         
+            for (int i = 1; i <= n; i++)
             {
                 if (i % 10 == 7)
                 {

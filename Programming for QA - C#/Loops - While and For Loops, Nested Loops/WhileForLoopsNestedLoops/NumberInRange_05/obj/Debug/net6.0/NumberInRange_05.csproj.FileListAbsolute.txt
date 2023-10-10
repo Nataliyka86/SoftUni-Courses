@@ -1,0 +1,14 @@
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\Loops - While and For Loops, Nested Loops\WhileForLoopsNestedLoops\NumberInRange_05\bin\Debug\net6.0\NumberInRange_05.exe
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\Loops - While and For Loops, Nested Loops\WhileForLoopsNestedLoops\NumberInRange_05\bin\Debug\net6.0\NumberInRange_05.deps.json
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\Loops - While and For Loops, Nested Loops\WhileForLoopsNestedLoops\NumberInRange_05\bin\Debug\net6.0\NumberInRange_05.runtimeconfig.json
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\Loops - While and For Loops, Nested Loops\WhileForLoopsNestedLoops\NumberInRange_05\bin\Debug\net6.0\NumberInRange_05.dll
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\Loops - While and For Loops, Nested Loops\WhileForLoopsNestedLoops\NumberInRange_05\bin\Debug\net6.0\NumberInRange_05.pdb
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\Loops - While and For Loops, Nested Loops\WhileForLoopsNestedLoops\NumberInRange_05\obj\Debug\net6.0\NumberInRange_05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\Loops - While and For Loops, Nested Loops\WhileForLoopsNestedLoops\NumberInRange_05\obj\Debug\net6.0\NumberInRange_05.AssemblyInfoInputs.cache
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\Loops - While and For Loops, Nested Loops\WhileForLoopsNestedLoops\NumberInRange_05\obj\Debug\net6.0\NumberInRange_05.AssemblyInfo.cs
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\Loops - While and For Loops, Nested Loops\WhileForLoopsNestedLoops\NumberInRange_05\obj\Debug\net6.0\NumberInRange_05.csproj.CoreCompileInputs.cache
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\Loops - While and For Loops, Nested Loops\WhileForLoopsNestedLoops\NumberInRange_05\obj\Debug\net6.0\NumberInRange_05.dll
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\Loops - While and For Loops, Nested Loops\WhileForLoopsNestedLoops\NumberInRange_05\obj\Debug\net6.0\refint\NumberInRange_05.dll
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\Loops - While and For Loops, Nested Loops\WhileForLoopsNestedLoops\NumberInRange_05\obj\Debug\net6.0\NumberInRange_05.pdb
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\Loops - While and For Loops, Nested Loops\WhileForLoopsNestedLoops\NumberInRange_05\obj\Debug\net6.0\NumberInRange_05.genruntimeconfig.cache
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\Loops - While and For Loops, Nested Loops\WhileForLoopsNestedLoops\NumberInRange_05\obj\Debug\net6.0\ref\NumberInRange_05.dll

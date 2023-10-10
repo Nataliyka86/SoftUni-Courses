@@ -1,0 +1,14 @@
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\Loops - While and For Loops, Nested Loops\WhileForLoopsNestedLoops\AccountBalance_08\bin\Debug\net6.0\AccountBalance_08.exe
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\Loops - While and For Loops, Nested Loops\WhileForLoopsNestedLoops\AccountBalance_08\bin\Debug\net6.0\AccountBalance_08.deps.json
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\Loops - While and For Loops, Nested Loops\WhileForLoopsNestedLoops\AccountBalance_08\bin\Debug\net6.0\AccountBalance_08.runtimeconfig.json
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\Loops - While and For Loops, Nested Loops\WhileForLoopsNestedLoops\AccountBalance_08\bin\Debug\net6.0\AccountBalance_08.dll
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\Loops - While and For Loops, Nested Loops\WhileForLoopsNestedLoops\AccountBalance_08\bin\Debug\net6.0\AccountBalance_08.pdb
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\Loops - While and For Loops, Nested Loops\WhileForLoopsNestedLoops\AccountBalance_08\obj\Debug\net6.0\AccountBalance_08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\Loops - While and For Loops, Nested Loops\WhileForLoopsNestedLoops\AccountBalance_08\obj\Debug\net6.0\AccountBalance_08.AssemblyInfoInputs.cache
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\Loops - While and For Loops, Nested Loops\WhileForLoopsNestedLoops\AccountBalance_08\obj\Debug\net6.0\AccountBalance_08.AssemblyInfo.cs
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\Loops - While and For Loops, Nested Loops\WhileForLoopsNestedLoops\AccountBalance_08\obj\Debug\net6.0\AccountBalance_08.csproj.CoreCompileInputs.cache
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\Loops - While and For Loops, Nested Loops\WhileForLoopsNestedLoops\AccountBalance_08\obj\Debug\net6.0\AccountBalance_08.dll
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\Loops - While and For Loops, Nested Loops\WhileForLoopsNestedLoops\AccountBalance_08\obj\Debug\net6.0\refint\AccountBalance_08.dll
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\Loops - While and For Loops, Nested Loops\WhileForLoopsNestedLoops\AccountBalance_08\obj\Debug\net6.0\AccountBalance_08.pdb
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\Loops - While and For Loops, Nested Loops\WhileForLoopsNestedLoops\AccountBalance_08\obj\Debug\net6.0\AccountBalance_08.genruntimeconfig.cache
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\Loops - While and For Loops, Nested Loops\WhileForLoopsNestedLoops\AccountBalance_08\obj\Debug\net6.0\ref\AccountBalance_08.dll
