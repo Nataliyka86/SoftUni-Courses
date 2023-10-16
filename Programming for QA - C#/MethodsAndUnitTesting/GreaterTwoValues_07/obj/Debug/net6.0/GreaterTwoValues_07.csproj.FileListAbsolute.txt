@@ -1,0 +1,14 @@
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\MethodsAndUnitTesting\GreaterTwoValues_07\bin\Debug\net6.0\GreaterTwoValues_07.exe
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\MethodsAndUnitTesting\GreaterTwoValues_07\bin\Debug\net6.0\GreaterTwoValues_07.deps.json
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\MethodsAndUnitTesting\GreaterTwoValues_07\bin\Debug\net6.0\GreaterTwoValues_07.runtimeconfig.json
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\MethodsAndUnitTesting\GreaterTwoValues_07\bin\Debug\net6.0\GreaterTwoValues_07.dll
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\MethodsAndUnitTesting\GreaterTwoValues_07\bin\Debug\net6.0\GreaterTwoValues_07.pdb
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\MethodsAndUnitTesting\GreaterTwoValues_07\obj\Debug\net6.0\GreaterTwoValues_07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\MethodsAndUnitTesting\GreaterTwoValues_07\obj\Debug\net6.0\GreaterTwoValues_07.AssemblyInfoInputs.cache
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\MethodsAndUnitTesting\GreaterTwoValues_07\obj\Debug\net6.0\GreaterTwoValues_07.AssemblyInfo.cs
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\MethodsAndUnitTesting\GreaterTwoValues_07\obj\Debug\net6.0\GreaterTwoValues_07.csproj.CoreCompileInputs.cache
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\MethodsAndUnitTesting\GreaterTwoValues_07\obj\Debug\net6.0\GreaterTwoValues_07.dll
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\MethodsAndUnitTesting\GreaterTwoValues_07\obj\Debug\net6.0\refint\GreaterTwoValues_07.dll
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\MethodsAndUnitTesting\GreaterTwoValues_07\obj\Debug\net6.0\GreaterTwoValues_07.pdb
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\MethodsAndUnitTesting\GreaterTwoValues_07\obj\Debug\net6.0\GreaterTwoValues_07.genruntimeconfig.cache
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\MethodsAndUnitTesting\GreaterTwoValues_07\obj\Debug\net6.0\ref\GreaterTwoValues_07.dll

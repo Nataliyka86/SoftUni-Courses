@@ -1,0 +1,14 @@
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\MethodsAndUnitTesting\SignOfIntegerNumbers_01\bin\Debug\net6.0\SignOfIntegerNumbers_01.exe
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\MethodsAndUnitTesting\SignOfIntegerNumbers_01\bin\Debug\net6.0\SignOfIntegerNumbers_01.deps.json
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\MethodsAndUnitTesting\SignOfIntegerNumbers_01\bin\Debug\net6.0\SignOfIntegerNumbers_01.runtimeconfig.json
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\MethodsAndUnitTesting\SignOfIntegerNumbers_01\bin\Debug\net6.0\SignOfIntegerNumbers_01.dll
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\MethodsAndUnitTesting\SignOfIntegerNumbers_01\bin\Debug\net6.0\SignOfIntegerNumbers_01.pdb
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\MethodsAndUnitTesting\SignOfIntegerNumbers_01\obj\Debug\net6.0\SignOfIntegerNumbers_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\MethodsAndUnitTesting\SignOfIntegerNumbers_01\obj\Debug\net6.0\SignOfIntegerNumbers_01.AssemblyInfoInputs.cache
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\MethodsAndUnitTesting\SignOfIntegerNumbers_01\obj\Debug\net6.0\SignOfIntegerNumbers_01.AssemblyInfo.cs
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\MethodsAndUnitTesting\SignOfIntegerNumbers_01\obj\Debug\net6.0\SignOfIntegerNumbers_01.csproj.CoreCompileInputs.cache
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\MethodsAndUnitTesting\SignOfIntegerNumbers_01\obj\Debug\net6.0\SignOfIntegerNumbers_01.dll
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\MethodsAndUnitTesting\SignOfIntegerNumbers_01\obj\Debug\net6.0\refint\SignOfIntegerNumbers_01.dll
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\MethodsAndUnitTesting\SignOfIntegerNumbers_01\obj\Debug\net6.0\SignOfIntegerNumbers_01.pdb
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\MethodsAndUnitTesting\SignOfIntegerNumbers_01\obj\Debug\net6.0\SignOfIntegerNumbers_01.genruntimeconfig.cache
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\MethodsAndUnitTesting\SignOfIntegerNumbers_01\obj\Debug\net6.0\ref\SignOfIntegerNumbers_01.dll

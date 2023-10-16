@@ -1,0 +1,14 @@
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\MethodsAndUnitTesting\VowelsCount_06\bin\Debug\net6.0\VowelsCount_06.exe
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\MethodsAndUnitTesting\VowelsCount_06\bin\Debug\net6.0\VowelsCount_06.deps.json
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\MethodsAndUnitTesting\VowelsCount_06\bin\Debug\net6.0\VowelsCount_06.runtimeconfig.json
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\MethodsAndUnitTesting\VowelsCount_06\bin\Debug\net6.0\VowelsCount_06.dll
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\MethodsAndUnitTesting\VowelsCount_06\bin\Debug\net6.0\VowelsCount_06.pdb
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\MethodsAndUnitTesting\VowelsCount_06\obj\Debug\net6.0\VowelsCount_06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\MethodsAndUnitTesting\VowelsCount_06\obj\Debug\net6.0\VowelsCount_06.AssemblyInfoInputs.cache
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\MethodsAndUnitTesting\VowelsCount_06\obj\Debug\net6.0\VowelsCount_06.AssemblyInfo.cs
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\MethodsAndUnitTesting\VowelsCount_06\obj\Debug\net6.0\VowelsCount_06.csproj.CoreCompileInputs.cache
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\MethodsAndUnitTesting\VowelsCount_06\obj\Debug\net6.0\VowelsCount_06.dll
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\MethodsAndUnitTesting\VowelsCount_06\obj\Debug\net6.0\refint\VowelsCount_06.dll
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\MethodsAndUnitTesting\VowelsCount_06\obj\Debug\net6.0\VowelsCount_06.pdb
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\MethodsAndUnitTesting\VowelsCount_06\obj\Debug\net6.0\VowelsCount_06.genruntimeconfig.cache
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\MethodsAndUnitTesting\VowelsCount_06\obj\Debug\net6.0\ref\VowelsCount_06.dll
