@@ -4,7 +4,19 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            int n = int.Parse(Console.ReadLine());
+
+            string[] daysArr = {
+            "Monday", "Tuesday", " Wednesday", "Thursday", "Friday", "Saturday", "Sunday"
+            };
+            if (n <= 0 || n > 7)
+            {
+                Console.WriteLine("Invalid day!");
+            }
+            else
+            {
+                Console.WriteLine(daysArr[n - 1]);
+            }
         }
     }
 }

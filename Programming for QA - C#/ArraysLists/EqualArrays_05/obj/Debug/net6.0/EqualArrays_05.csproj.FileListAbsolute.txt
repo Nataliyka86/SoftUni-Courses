@@ -1,0 +1,14 @@
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\ArraysLists\EqualArrays_05\bin\Debug\net6.0\EqualArrays_05.exe
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\ArraysLists\EqualArrays_05\bin\Debug\net6.0\EqualArrays_05.deps.json
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\ArraysLists\EqualArrays_05\bin\Debug\net6.0\EqualArrays_05.runtimeconfig.json
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\ArraysLists\EqualArrays_05\bin\Debug\net6.0\EqualArrays_05.dll
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\ArraysLists\EqualArrays_05\bin\Debug\net6.0\EqualArrays_05.pdb
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\ArraysLists\EqualArrays_05\obj\Debug\net6.0\EqualArrays_05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\ArraysLists\EqualArrays_05\obj\Debug\net6.0\EqualArrays_05.AssemblyInfoInputs.cache
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\ArraysLists\EqualArrays_05\obj\Debug\net6.0\EqualArrays_05.AssemblyInfo.cs
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\ArraysLists\EqualArrays_05\obj\Debug\net6.0\EqualArrays_05.csproj.CoreCompileInputs.cache
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\ArraysLists\EqualArrays_05\obj\Debug\net6.0\EqualArrays_05.dll
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\ArraysLists\EqualArrays_05\obj\Debug\net6.0\refint\EqualArrays_05.dll
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\ArraysLists\EqualArrays_05\obj\Debug\net6.0\EqualArrays_05.pdb
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\ArraysLists\EqualArrays_05\obj\Debug\net6.0\EqualArrays_05.genruntimeconfig.cache
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\ArraysLists\EqualArrays_05\obj\Debug\net6.0\ref\EqualArrays_05.dll

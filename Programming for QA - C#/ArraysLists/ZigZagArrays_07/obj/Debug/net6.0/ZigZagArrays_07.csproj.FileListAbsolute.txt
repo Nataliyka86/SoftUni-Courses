@@ -1,0 +1,14 @@
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\ArraysLists\ZigZagArrays_07\bin\Debug\net6.0\ZigZagArrays_07.exe
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\ArraysLists\ZigZagArrays_07\bin\Debug\net6.0\ZigZagArrays_07.deps.json
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\ArraysLists\ZigZagArrays_07\bin\Debug\net6.0\ZigZagArrays_07.runtimeconfig.json
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\ArraysLists\ZigZagArrays_07\bin\Debug\net6.0\ZigZagArrays_07.dll
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\ArraysLists\ZigZagArrays_07\bin\Debug\net6.0\ZigZagArrays_07.pdb
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\ArraysLists\ZigZagArrays_07\obj\Debug\net6.0\ZigZagArrays_07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\ArraysLists\ZigZagArrays_07\obj\Debug\net6.0\ZigZagArrays_07.AssemblyInfoInputs.cache
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\ArraysLists\ZigZagArrays_07\obj\Debug\net6.0\ZigZagArrays_07.AssemblyInfo.cs
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\ArraysLists\ZigZagArrays_07\obj\Debug\net6.0\ZigZagArrays_07.csproj.CoreCompileInputs.cache
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\ArraysLists\ZigZagArrays_07\obj\Debug\net6.0\ZigZagArrays_07.dll
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\ArraysLists\ZigZagArrays_07\obj\Debug\net6.0\refint\ZigZagArrays_07.dll
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\ArraysLists\ZigZagArrays_07\obj\Debug\net6.0\ZigZagArrays_07.pdb
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\ArraysLists\ZigZagArrays_07\obj\Debug\net6.0\ZigZagArrays_07.genruntimeconfig.cache
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\ArraysLists\ZigZagArrays_07\obj\Debug\net6.0\ref\ZigZagArrays_07.dll

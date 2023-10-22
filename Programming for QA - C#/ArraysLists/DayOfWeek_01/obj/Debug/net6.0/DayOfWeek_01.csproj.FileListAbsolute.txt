@@ -1,0 +1,14 @@
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\ArraysLists\DayOfWeek_01\bin\Debug\net6.0\DayOfWeek_01.exe
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\ArraysLists\DayOfWeek_01\bin\Debug\net6.0\DayOfWeek_01.deps.json
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\ArraysLists\DayOfWeek_01\bin\Debug\net6.0\DayOfWeek_01.runtimeconfig.json
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\ArraysLists\DayOfWeek_01\bin\Debug\net6.0\DayOfWeek_01.dll
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\ArraysLists\DayOfWeek_01\bin\Debug\net6.0\DayOfWeek_01.pdb
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\ArraysLists\DayOfWeek_01\obj\Debug\net6.0\DayOfWeek_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\ArraysLists\DayOfWeek_01\obj\Debug\net6.0\DayOfWeek_01.AssemblyInfoInputs.cache
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\ArraysLists\DayOfWeek_01\obj\Debug\net6.0\DayOfWeek_01.AssemblyInfo.cs
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\ArraysLists\DayOfWeek_01\obj\Debug\net6.0\DayOfWeek_01.csproj.CoreCompileInputs.cache
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\ArraysLists\DayOfWeek_01\obj\Debug\net6.0\DayOfWeek_01.dll
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\ArraysLists\DayOfWeek_01\obj\Debug\net6.0\refint\DayOfWeek_01.dll
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\ArraysLists\DayOfWeek_01\obj\Debug\net6.0\DayOfWeek_01.pdb
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\ArraysLists\DayOfWeek_01\obj\Debug\net6.0\DayOfWeek_01.genruntimeconfig.cache
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\ArraysLists\DayOfWeek_01\obj\Debug\net6.0\ref\DayOfWeek_01.dll
