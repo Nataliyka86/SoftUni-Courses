@@ -1,0 +1,14 @@
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\ExamPreparation\MiddleElements_02\bin\Debug\net6.0\MiddleElements_02.exe
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\ExamPreparation\MiddleElements_02\bin\Debug\net6.0\MiddleElements_02.deps.json
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\ExamPreparation\MiddleElements_02\bin\Debug\net6.0\MiddleElements_02.runtimeconfig.json
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\ExamPreparation\MiddleElements_02\bin\Debug\net6.0\MiddleElements_02.dll
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\ExamPreparation\MiddleElements_02\bin\Debug\net6.0\MiddleElements_02.pdb
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\ExamPreparation\MiddleElements_02\obj\Debug\net6.0\MiddleElements_02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\ExamPreparation\MiddleElements_02\obj\Debug\net6.0\MiddleElements_02.AssemblyInfoInputs.cache
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\ExamPreparation\MiddleElements_02\obj\Debug\net6.0\MiddleElements_02.AssemblyInfo.cs
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\ExamPreparation\MiddleElements_02\obj\Debug\net6.0\MiddleElements_02.csproj.CoreCompileInputs.cache
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\ExamPreparation\MiddleElements_02\obj\Debug\net6.0\MiddleElements_02.dll
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\ExamPreparation\MiddleElements_02\obj\Debug\net6.0\refint\MiddleElements_02.dll
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\ExamPreparation\MiddleElements_02\obj\Debug\net6.0\MiddleElements_02.pdb
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\ExamPreparation\MiddleElements_02\obj\Debug\net6.0\MiddleElements_02.genruntimeconfig.cache
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\ExamPreparation\MiddleElements_02\obj\Debug\net6.0\ref\MiddleElements_02.dll

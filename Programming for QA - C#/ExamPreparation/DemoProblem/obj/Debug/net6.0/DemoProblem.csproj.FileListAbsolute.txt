@@ -1,0 +1,14 @@
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\ExamPreparation\DemoProblem\bin\Debug\net6.0\DemoProblem.exe
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\ExamPreparation\DemoProblem\bin\Debug\net6.0\DemoProblem.deps.json
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\ExamPreparation\DemoProblem\bin\Debug\net6.0\DemoProblem.runtimeconfig.json
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\ExamPreparation\DemoProblem\bin\Debug\net6.0\DemoProblem.dll
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\ExamPreparation\DemoProblem\bin\Debug\net6.0\DemoProblem.pdb
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\ExamPreparation\DemoProblem\obj\Debug\net6.0\DemoProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\ExamPreparation\DemoProblem\obj\Debug\net6.0\DemoProblem.AssemblyInfoInputs.cache
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\ExamPreparation\DemoProblem\obj\Debug\net6.0\DemoProblem.AssemblyInfo.cs
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\ExamPreparation\DemoProblem\obj\Debug\net6.0\DemoProblem.csproj.CoreCompileInputs.cache
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\ExamPreparation\DemoProblem\obj\Debug\net6.0\DemoProblem.dll
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\ExamPreparation\DemoProblem\obj\Debug\net6.0\refint\DemoProblem.dll
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\ExamPreparation\DemoProblem\obj\Debug\net6.0\DemoProblem.pdb
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\ExamPreparation\DemoProblem\obj\Debug\net6.0\DemoProblem.genruntimeconfig.cache
+C:\Users\choch0\Documents\GitHub\SoftUni-Courses\Programming for QA - C#\ExamPreparation\DemoProblem\obj\Debug\net6.0\ref\DemoProblem.dll
